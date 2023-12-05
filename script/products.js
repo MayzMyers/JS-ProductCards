@@ -1,0 +1,32 @@
+export let productsObj = [
+  {
+    nameProduct: "Телевизор LED Samsung The Frame черный",
+    imgProduct: "tv1",
+    screenDiagonal: "125 см",
+    screenResolution: "4K UltraHD, 3840x2160",
+    screenFormat: "16:9",
+    screenBacklight: "60 Гц",
+    os: "Tizen",
+    soundPower: "20 Вт",
+  },
+  {
+    nameProduct: "Телевизор LED LG </br> черный",
+    imgProduct: "tv2",
+    screenDiagonal: "138 см",
+    screenResolution: "4K UltraHD, 3840x2160",
+    screenFormat: "16:9",
+    screenBacklight: "120 Гц",
+    os: "webOS",
+    soundPower: "20 Вт",
+  },
+  {
+    nameProduct: "Телевизор OLED Konka A65 черный",
+    imgProduct: "tv3",
+    screenDiagonal: "164 см",
+    screenResolution: "4K UltraHD, 3840x2160",
+    screenFormat: "16:9",
+    screenBacklight: "120 Гц",
+    os: "webOS",
+    soundPower: "30 Вт",
+  },
+];
